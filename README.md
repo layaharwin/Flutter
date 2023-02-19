@@ -1,6 +1,5 @@
 # Flutter App
 
-## Question:
 ```For the Flutter check, this is the task:
 A new flutter app that contains 3 pages with a navigation bar on the bottom that uses either a navigation route or state, you can choose any icons you want for the navigation bar, When clicking on an icon of the navigation bar, it has to redirect the user to theproper page
 
