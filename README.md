@@ -15,3 +15,14 @@ Here’s more info for the pages:
 
 To recap you must do ONLY the front of the app, there are only 3 pages in this app and no authentication must be done. For the design and the color, you can do whatever you want!
 ```
+## Final Results:
+
+### 1. Feed Page
+<img width="268" alt="Screen Shot 2023-02-19 at 4 49 16 PM" src="https://user-images.githubusercontent.com/41572834/219977395-845fa1ad-46d6-49b6-b1e1-d0c1a63ee6e0.png">
+
+### 2. Post Page
+<img width="269" alt="Screen Shot 2023-02-19 at 4 50 02 PM" src="https://user-images.githubusercontent.com/41572834/219977400-6cc7f2f2-193f-4f82-ad90-4ac647bacb2e.png">
+
+### 3. Profile Page
+<img width="267" alt="Screen Shot 2023-02-19 at 4 50 45 PM" src="https://user-images.githubusercontent.com/41572834/219977405-70ed4513-309d-417f-b424-22187fba0074.png">
+
